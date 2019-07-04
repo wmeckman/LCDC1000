@@ -1,0 +1,157 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+FCI_10118193-0001LF
+$EndINDEX
+$MODULE FCI_10118193-0001LF
+Po 0 0 0 15 00000000 00000000 ~~
+Li FCI_10118193-0001LF
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -1.31441 -4.48892 1 1 0 0.05 N V 21 "FCI_10118193-0001LF"
+T1 -0.71108 3.76872 1 1 0 0.05 N V 21 "VAL**"
+DA -3.3 -0.35 -3.3 -0.6 -900 0 28
+DA -3.3 -0.35 -3.05 -0.35 -900 0 28
+DS -3.05 -0.35 -3.05 0.35 0 28
+DA -3.3 0.35 -3.3 0.6 -900 0 28
+DA -3.3 0.35 -3.55 0.35 -900 0 28
+DS -3.55 0.35 -3.55 -0.35 0 28
+DA 3.3 -0.35 3.3 -0.6 -900 0 28
+DA 3.3 -0.35 3.55 -0.35 -900 0 28
+DS 3.55 -0.35 3.55 0.35 0 28
+DA 3.3 0.35 3.3 0.6 -900 0 28
+DA 3.3 0.35 3.05 0.35 -900 0 28
+DS 3.05 0.35 3.05 -0.35 0 28
+DS -4.2 -3.6 -4.2 3 0.05 26
+DS -4.2 3 4.2 3 0.05 26
+DS 4.2 3 4.2 -3.6 0.05 26
+DS 4.2 -3.6 -4.2 -3.6 0.05 26
+DC -2 -3.5 -1.9 -3.5 0.2 21
+DS -3.8 1.45 3.8 1.45 0.127 21
+DS -3.8 -2.9 3.8 -2.9 0.127 24
+DS 3.8 -2.9 3.8 1.45 0.127 24
+DS 3.8 1.45 3.8 2.15 0.127 24
+DS 3.8 2.15 -3.8 2.15 0.127 24
+DS -3.8 2.15 -3.8 2.1 0.127 24
+DS -3.8 2.1 -3.8 -2.9 0.127 24
+DA -4.065 2.235 -3.93 2.5 -900 0.127 24
+DS -3.93 2.5 -3.75 2.75 0.127 24
+DA -3.85 2.3 -3.4 2.2 900 0.127 24
+DS -3.2 2.2 -3.2 2.75 0.127 24
+DS -3.2 2.75 3.2 2.75 0.127 24
+DS 3.2 2.75 3.2 2.2 0.127 24
+DA 4.065 2.235 3.93 2.5 900 0.127 24
+DS 3.93 2.5 3.75 2.8 0.127 24
+DA 3.875 2.325 3.4 2.2 -900 0.127 24
+DS -3.8 -1.5 -3.8 -1.1 0.127 21
+DS 3.8 -1.1 3.8 -1.5 0.127 21
+DS -3.8 1.1 -3.8 1.4 0.127 21
+DS 3.8 1.1 3.8 1.4 0.127 21
+DS 3.8 1.45 6.15 1.45 0.127 24
+T2 4.750000 1.300000 1 1 0 .05 N V 51 "PCB~END"
+$PAD
+Sh "1" R 0.4 1.35 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.3 -2.675
+$EndPAD
+$PAD
+Sh "2" R 0.4 1.35 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.65 -2.675
+$EndPAD
+$PAD
+Sh "3" R 0.4 1.35 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -2.675
+$EndPAD
+$PAD
+Sh "4" R 0.4 1.35 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.65 -2.675
+$EndPAD
+$PAD
+Sh "5" R 0.4 1.35 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.3 -2.675
+$EndPAD
+$PAD
+Sh "S1" R 1.6 1.4 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.2 -2.45
+$EndPAD
+$PAD
+Sh "S2" R 1.6 1.4 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.2 -2.45
+$EndPAD
+$PAD
+Sh "S4" R 1.9 1.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.2 0
+$EndPAD
+$PAD
+Sh "S3" R 1.9 1.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.2 0
+$EndPAD
+$PAD
+Sh "Hole" C 0.5 0.5 0 0 0
+Dr 0.5 0 0
+At HOLE N 00E0FFFF
+Po -3.3 0
+$EndPAD
+$PAD
+Sh "Hole" C 0.5 0.5 0 0 0
+Dr 0.5 0 0
+At HOLE N 00E0FFFF
+Po 3.3 0
+$EndPAD
+$PAD
+Sh "S5" O 1.8 0.9 0 0 900
+Dr 0.5 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -3.3 0
+$EndPAD
+$PAD
+Sh "S6" O 1.8 0.9 0 0 900
+Dr 0.5 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 3.3 0
+$EndPAD
+$EndMODULE FCI_10118193-0001LF

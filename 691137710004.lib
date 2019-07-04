@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 691137710004
+#
+DEF 691137710004 J 0 40 Y N 1 L N
+F0 "J" -100 250 50 H V L BNN
+F1 "691137710004" -100 -250 50 H V L BNN
+F2 "691137710004" 0 0 50 H I L BNN
+F3 "Unavailable" 0 0 50 H I L BNN
+F4 "None" 0 0 50 H I L BNN
+F5 "691137710004" 0 0 50 H I L BNN
+F6 "Term Block 4POS Side Entry 5MM" 0 0 50 H I L BNN
+F7 "Wurth Electronics" 0 0 50 H I L BNN
+F8 "None" 0 0 50 H I L BNN
+DRAW
+A -65 200 35 900 2699 0 0 10 N -65 235 -65 165
+A -65 100 35 900 2699 0 0 10 N -65 135 -65 65
+A -65 0 35 900 2699 0 0 10 N -65 35 -65 -35
+A -65 -100 35 900 2699 0 0 10 N -65 -65 -65 -135
+X 1 1 -200 200 100 R 40 40 0 0 P 
+X 2 2 -200 100 100 R 40 40 0 0 P 
+X 3 3 -200 0 100 R 40 40 0 0 P 
+X 4 4 -200 -100 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,60 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+691137710004
+$EndINDEX
+$MODULE 691137710004
+Po 0 0 0 15 00000000 00000000 ~~
+Li 691137710004
+Cd 
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 0.54 -4.935 1 1 0 0.05 N V 21 "691137710004"
+T1 0.975 5.365 1 1 0 0.05 N V 21 "VAL**"
+DS -10 -3.5 10 -3.5 0.127 21
+DS 10 -3.5 10 4 0.127 21
+DS 10 4 -10 4 0.127 21
+DS -10 4 -10 -3.5 0.127 21
+DP 0 0 0 0 4 0.127 26
+Dl -10.25 -3.75
+Dl 10.25 -3.75
+Dl 10.25 4.25
+Dl -10.25 4.25
+T2 -9.300000 -0.900000 1 1 0 .05 N V 48 "1"
+$PAD
+Sh "1" C 1.95 1.95 0 0 0
+Dr 1.3 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -7.5 0
+$EndPAD
+$PAD
+Sh "2" C 1.95 1.95 0 0 0
+Dr 1.3 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -2.5 0
+$EndPAD
+$PAD
+Sh "3" C 1.95 1.95 0 0 0
+Dr 1.3 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 2.5 0
+$EndPAD
+$PAD
+Sh "4" C 1.95 1.95 0 0 0
+Dr 1.3 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 7.5 0
+$EndPAD
+$EndMODULE 691137710004
