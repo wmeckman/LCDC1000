@@ -1,0 +1,25 @@
+### Module positions - created on 6/7/2019 10:11:03 PM ###
+### Printed by Pcbnew version kicad (5.1.2)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                 PosX       PosY       Rot  Side
+C1        0.1uF     C_0805_2012Metric  -172.5168   -93.5713   90.0000  bottom
+C7        0.1uF     C_0805_2012Metric  -192.8876  -124.1321   90.0000  bottom
+C17       10uF      C_0805_2012Metric  -204.4215  -127.2032  180.0000  bottom
+C19       10uF      C_0805_2012Metric  -180.2361  -121.3104    0.0000  bottom
+R3        10k       R_0805_2012Metric  -172.5168   -97.4090  270.0000  bottom
+R12       10k       R_0805_2012Metric  -184.3809  -108.0008    0.0000  bottom
+R13       DNI       R_0805_2012Metric  -184.3809  -110.1344  180.0000  bottom
+R15       DNI       R_0805_2012Metric  -173.6575   -90.4240  180.0000  bottom
+R16       DNI       R_0805_2012Metric  -170.5356   -88.7199   90.0000  bottom
+R27       1k        R_0805_2012Metric  -203.2000   -76.1215  270.0000  bottom
+R28       1k        R_0805_2012Metric  -209.2960   -81.9935   90.0000  bottom
+R29       1k        R_0805_2012Metric  -203.4540   -91.1375   90.0000  bottom
+R30       1k        R_0805_2012Metric  -211.5312   -94.9175   90.0000  bottom
+R33       100       R_0805_2012Metric  -202.9206   -96.1136    0.0000  bottom
+R37       10k       R_0805_2012Metric  -209.1205  -119.8118    0.0000  bottom
+R39       1k        R_0805_2012Metric  -208.0768   -78.2297  270.0000  bottom
+R40       DNI       R_0805_2012Metric  -209.1159  -122.0470    0.0000  bottom
+R41       1k        R_0805_2012Metric  -213.3854   -84.0255  270.0000  bottom
+R42       1k        R_0805_2012Metric  -211.8868   -89.3341  270.0000  bottom
+## End
